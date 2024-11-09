@@ -1,4 +1,4 @@
-# PyTorch implementation of[Rate-Adaptive Generative Semantic Communication Using Conditional Diffusion Models](https://arxiv.org/pdf/2409.02597) 
+# PyTorch implementation of [Rate-Adaptive Generative Semantic Communication Using Conditional Diffusion Models](https://arxiv.org/pdf/2409.02597) 
 
 This repository is built upon [CDC_compression](https://github.com/buggyyang/CDC_compression) and [NTSCC](https://github.com/wsxtyrdd/NTSCC_JSAC22), thanks very much!
 
@@ -33,7 +33,7 @@ pip install -r requirements.txt (Not provided yet)
 If you're having issues with installing PyTorch compatible with your CUDA version, we strongly recommend related documentation page](https://pytorch.org/get-started/previous-versions/).
 
 ## Pretrained Models
-They are provided in the  ./ckpt folder.
+- Download [cdm-jscc-ckpt](https://pan.baidu.com/s/1ESqxaqwQHlMl595_rqC7AA?pwd=94yp) and put them into ./ckpt folder.
 
 ## Usage
 Example of test the CDM-JSCC model:
